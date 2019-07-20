@@ -1,9 +1,10 @@
 {
-  "CN": "cart.carteria.co",
+  "CN": "carts.carteria.co",
   "hosts": [
-    "cart",
-    "cart-cart",
-    "cart.carteria.co"
+    "localhost",
+    "carts",
+    "carts-carts",
+    "carts.carteria.co"
   ],
   "key": {
     "algo": "rsa",
@@ -15,7 +16,7 @@
       "ST": "North Holland",
       "L": "Amsterdam",
       "O": "Carteria",
-      "OU": "Cart"
+      "OU": "Carts"
     }
   ]
 }
